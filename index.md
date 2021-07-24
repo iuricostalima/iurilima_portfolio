@@ -1,6 +1,6 @@
-## Iuri Lima's Portifolio
+## Iuri Lima's Portifolio(In Progress)
 
-Here I am gonna show some simple examples of my skills scraping, cleaning, organizing, analyzing, visualizing and sharing data. Also, some miscellaneous programming skill I have acquired along the way.
+Here I am going to show some simple examples of my skills scraping, cleaning, organizing, analyzing, visualizing and sharing data. Also, some miscellaneous programming skill I have acquired along the way.
 
 ### [Data Exploration in Python](https://github.com/iuricostalima/PythonShortDataAnalysis/blob/main/Online_Business_Sales_2017_2019.ipynb)
 
@@ -18,6 +18,13 @@ This is a simple visualization of the Covid19 cases and deaths in the state of C
 
 
 
+
+
+### Miscellaneous Programming
+
+[QrCode Generator in Python](https://github.com/iuricostalima/QrCode/blob/main/QrCode_Generator.ipynb)
+
+iuricostalima/QrCode is a ✨ special ✨ repository because it's one of my most useful tools. I've learnt about QrCode and since then I am trying to make good use of it, helping friends and family improve their business and connections.
 
 
 
