@@ -1,6 +1,29 @@
-## Welcome to GitHub Pages
+## Iuri Lima's Portifolio
 
-You can use the [editor on GitHub](https://github.com/iuricostalima/iurilima_portifolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Here I am gonna show some simple examples of my skills scraping, cleaning, organizing, analyzing, visualizing and sharing data. Also, some miscellaneous programming skill I have acquired along the way.
+
+### [Data Exploration in Python](https://github.com/iuricostalima/PythonShortDataAnalysis/blob/main/Online_Business_Sales_2017_2019.ipynb)
+
+A python script showing a bit of my skills with the language.
+
+- Web Scraping
+- Pandas
+- Matplotlib
+
+
+### [Data Visualization with Google Data Studio](https://datastudio.google.com/reporting/bfb2198c-60ae-424c-abf2-0f087b4fd304)
+
+Google Data Studio is a great free tool for creating interactive dashboards and beautiful reports.
+This is a simple visualization of the Covid19 cases and deaths in the state of California.
+
+
+
+
+
+
+
+
+<!--- You can use the [editor on GitHub](https://github.com/iuricostalima/iurilima_portifolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -35,3 +58,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+--->
