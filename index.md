@@ -1,4 +1,4 @@
-## Iuri Lima's Portifolio(In Progress)
+## Iuri Lima's Portfolio(In Progress)
 
 Here I am going to show some simple examples of my skills scraping, cleaning, organizing, analyzing, visualizing and sharing data. Also, some miscellaneous programming skill I have acquired along the way.
 
